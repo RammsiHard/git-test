@@ -1,0 +1,20 @@
+.container{
+    border: 5px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Home {
+    background-color: #20916f;
+    
+}
+
+.About{
+    background-color: #e06262;
+    
+}
+.Contact{
+    background-color: gray;
+    
+   
+}
